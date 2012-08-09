@@ -1,5 +1,6 @@
 def anIncrement(value,onlycaps=True, strlen=10):
     """
+    ==========
     simple function to increment a alpha-numeric key to the next value
     note value follows: 0 < A < a therefor 9 is less than P and Z is less than b
     :param value: The value passed to the function
